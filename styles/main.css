@@ -1,0 +1,35 @@
+/* Name: Misael Diaz*/
+/* Date: November 1, 2026 */
+/* Project: Building a Database with Stored Procedures */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #222222;
+    margin: 0;
+    padding: 30px;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #183a63;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #183a63;
+    margin-top: 25px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
